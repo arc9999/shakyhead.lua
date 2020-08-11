@@ -279,6 +279,24 @@ a{
 }
 
 
+.submit {
+  background-color: #7289da; /* Green */
+  border: none;
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+  padding: 3px 6px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
+
+
+.submit:hover {
+  background: #5c6dad; 
+  transition: 0.5s;
+}
+
 .join {
   background-color: #7289da; 
   color: black;
