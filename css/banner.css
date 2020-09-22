@@ -1,0 +1,13 @@
+.ribbon {
+    width: 200px;
+    height: 30px;
+    margin: auto;
+    top: 420px;
+    margin-left: 40px;
+    position: absolute;
+    color: #fff;
+    font: 14px/30px sans-serif;
+    text-align: center;
+    background: #3D79D0;
+    border-radius: 3px;
+}  
