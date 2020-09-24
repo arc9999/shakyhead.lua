@@ -388,6 +388,17 @@ a{
 
 }
 
+.price {
+  background-color: #383983; 
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: 'Courier New', Courier, monospace;
+  display: block;
+  float: left;
+  border: 2px solid white;
+  margin: auto;
+
+}
 
 .join:hover {
   background: #5c6dad; 
