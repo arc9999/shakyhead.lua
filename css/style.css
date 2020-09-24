@@ -158,6 +158,26 @@ a{
 
 }
 
+.log1{
+  background-color: black; 
+  border: 2px solid white; 
+  width: 90%; 
+  margin: auto; 
+  height: 260px;
+  margin-bottom: 20px;
+  padding-top: 6px;
+}
+
+.log2{
+  background-color: black; 
+  border: 2px solid white; 
+  width: 90%; 
+  margin: auto; 
+  height: 190px;
+  margin-bottom: 20px;
+  padding-top: 6px;
+}
+
 .recentu2{
 
   height: 190px;
@@ -443,7 +463,17 @@ a{
 /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
 .header a.logo {
   font-size: 26px;
-  font-weight: bold;
+  font-weight: 500;
+}
+
+.first{
+  font-size: 17px; 
+  border: 1px solid white; 
+  padding: 4px; 
+  margin: 10px;
+  margin-bottom: 22px; 
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 0px;
 }
 
 /* Change the background color on mouse-over */
