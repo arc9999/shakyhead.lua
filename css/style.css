@@ -359,6 +359,22 @@ a{
   transition: 0.5s;
 }
 
+.slidewayb {
+  background-color: #4461be; 
+  color: black;
+  font-size: 18px;
+  margin: 20px;
+  margin-bottom: 35px;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+.slidewayb:hover {
+  background: #a12424; 
+  transition: 0.5s;
+}
+
 
 .submit {
   background-color: #7289da; /* Green */
