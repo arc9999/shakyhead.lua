@@ -32,7 +32,7 @@ HEADER
             <a class="logo"></a>
             <a class="logo"></a>
             <a class="logo"></a>
-            <a class="active" href="updates">Updates</a>
+            <a class="active" href="update">Updates</a>
             <a class="logo"></a>
             <a class="logo"></a>
             <a class="logo"></a>
@@ -60,7 +60,7 @@ HEADER
 
             <div class="updatelog">
                 
-                <u><a href="update/0.69">Update 0.69</a></u>
+                <u><a href="updates/0.69">Update 0.69</a></u>
 
                 <div style="float: right;">16/08/2020</div>
 
@@ -68,7 +68,7 @@ HEADER
 
             <div class="updatelog">
                 
-                <u><a href="update/0.69">Update 0.278</a></u>
+                <u><a href="updates/0.278">Update 0.278</a></u>
 
                 <div style="float: right;">8/08/2020</div>
 
@@ -76,7 +76,7 @@ HEADER
 
             <div class="updatelog">
                 
-                <u><a href="update/0.69">Update 0.240</a></u>
+                <u><a href="updates/0.240">Update 0.240</a></u>
 
                 <div style="float: right;">8/08/2020</div>
 
@@ -84,7 +84,7 @@ HEADER
 
             <div class="updatelog">
                 
-                <u><a href="update/0.69 ">Update 0.173</a></u> - First Release
+                <u><a href="updates/0.173">Update 0.173</a></u> - First Release
 
                 <div style="float: right;">6/08/2020</div>
 
