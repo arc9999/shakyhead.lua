@@ -24,7 +24,7 @@ HEADER
 <div class="header">
   <a href="index" class="logo"><center>shakyhead.lua</center></a>
   <div class="header-right">
-    <a href="index">Home</a>
+    <a href="index.html">Home</a>
     <a class="logo"></a>
     <a class="logo"></a>
     <a class="logo"></a>
