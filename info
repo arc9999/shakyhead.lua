@@ -218,7 +218,7 @@ HEADER
 
             <div class="log1">
 
-                <center><div style="font-size: 26px; width: 100%;"><a href="updates/0.69"><u>Update 0.69</u></a></div></center>
+                <center><div style="font-size: 26px; width: 100%;"><a href="update/0.69"><u>Update 0.69</u></a></div></center>
 
                 <div style="font-size: 18px;"><center>Features Added</center></div>
 
@@ -242,7 +242,7 @@ HEADER
 
                 <div style="font-size: 18px;">
                     
-                    ... <a href="updates/0.69"><u>continue reading</u></a>
+                    ... <a href="update/0.69"><u>continue reading</u></a>
                 </div>
                 
                 </div>
@@ -251,7 +251,7 @@ HEADER
 
             <div class="log2">
 
-                <center><div style="font-size: 26px; width: 100%;"><a href="updates/0.278"><u>Update 0.278</u></a></div></center>
+                <center><div style="font-size: 26px; width: 100%;"><a href="update/0.278"><u>Update 0.278</u></a></div></center>
 
                 <div style="font-size: 18px;"><center>Features Added</center></div>
 
@@ -267,7 +267,7 @@ HEADER
                     <br>
                     <br>
                     
-                    ... <a href="updates/0.278"><u>continue reading</u></a>
+                    ... <a href="update/0.278"><u>continue reading</u></a>
                 </div>
                 
             </div>
