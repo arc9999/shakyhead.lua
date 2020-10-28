@@ -495,10 +495,20 @@ a{
 
 .first{
   font-size: 17px; 
-  border: 1px solid white; 
+  border: 1px solid rgb(255, 255, 255); 
   padding: 4px; 
   margin: 10px;
   margin-bottom: 22px; 
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 0px;
+}
+
+.first2{
+  font-size: 17px; 
+  border-bottom: 1px solid rgb(56, 109, 255); 
+  padding: 4px; 
+  margin: 10px;
+  margin-bottom: 2px; 
   font-family: 'Courier New', Courier, monospace;
   margin-top: 0px;
 }
