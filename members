@@ -23,25 +23,25 @@ HEADER
     <div class="scrollp">
 
         <div class="header">
-        <a href="index.html" class="logo"><center>shakyhead.lua</center></a>
+        <a href="index" class="logo"><center>shakyhead.lua</center></a>
         <div class="header-right">
-            <a href="index.html">Home</a>
+            <a href="index">Home</a>
             <a class="logo"></a>
             <a class="logo"></a>
             <a class="logo"></a>
-            <a class="active" href="info.html">Info</a>
+            <a class="active" href="info">Info</a>
             <a class="logo"></a>
             <a class="logo"></a>
             <a class="logo"></a>
-            <a href="updates.html">Updates</a>
+            <a href="updates">Updates</a>
             <a class="logo"></a>
             <a class="logo"></a>
             <a class="logo"></a>
-            <a href="links.html">Links</a>
+            <a href="links">Links</a>
             <a class="logo"></a>
             <a class="logo"></a>
             <a class="logo"></a>
-            <a href="beta.html">Beta</a>
+            <a href="beta">Beta</a>
             <a class="logo"></a>
             <a class="logo"></a>
             <a class="logo"></a>
@@ -207,7 +207,7 @@ HEADER
 
             <div class="log1">
 
-                <center><div style="font-size: 26px; width: 100%;"><a href="updates/0.69.html"><u>Update 0.69</u></a></div></center>
+                <center><div style="font-size: 26px; width: 100%;"><a href="updates/0.69"><u>Update 0.69</u></a></div></center>
 
                 <div style="font-size: 18px;"><center>Features Added</center></div>
 
@@ -231,7 +231,7 @@ HEADER
 
                 <div style="font-size: 18px;">
                     
-                    ... <a href="updates/0.69.html"><u>continue reading</u></a>
+                    ... <a href="updates/0.69"><u>continue reading</u></a>
                 </div>
                 
                 </div>
@@ -240,7 +240,7 @@ HEADER
 
             <div class="log2">
 
-                <center><div style="font-size: 26px; width: 100%;"><a href="updates/0.278.html"><u>Update 0.278</u></a></div></center>
+                <center><div style="font-size: 26px; width: 100%;"><a href="updates/0.278"><u>Update 0.278</u></a></div></center>
 
                 <div style="font-size: 18px;"><center>Features Added</center></div>
 
@@ -256,12 +256,12 @@ HEADER
                     <br>
                     <br>
                     
-                    ... <a href="updates/0.278.html"><u>continue reading</u></a>
+                    ... <a href="updates/0.278"><u>continue reading</u></a>
                 </div>
                 
             </div>
 
-            <center><a href="updates.html"><button class="btn getstarted" style="margin: 10px;">View all updates</button></a></center>
+            <center><a href="updates"><button class="btn getstarted" style="margin: 10px;">View all updates</button></a></center>
 
             </div>
 

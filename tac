@@ -23,25 +23,25 @@ HEADER
     <div class="scrollp">
 
         <div class="header">
-        <a href="index.html" class="logo"><center>shakyhead.lua</center></a>
+        <a href="index" class="logo"><center>shakyhead.lua</center></a>
         <div class="header-right">
-            <a href="index.html">Home</a>
+            <a href="index">Home</a>
             <a class="logo"></a>
             <a class="logo"></a>
             <a class="logo"></a>
-            <a href="info.html">Info</a>
+            <a href="info">Info</a>
             <a class="logo"></a>
             <a class="logo"></a>
             <a class="logo"></a>
-            <a href="updates.html">Updates</a>
+            <a href="updates">Updates</a>
             <a class="logo"></a>
             <a class="logo"></a>
             <a class="logo"></a>
-            <a href="links.html">Links</a>
+            <a href="links">Links</a>
             <a class="logo"></a>
             <a class="logo"></a>
             <a class="logo"></a>
-            <a href="beta.html">Beta</a>
+            <a href="beta">Beta</a>
             <a class="logo"></a>
             <a class="logo"></a>
             <a class="logo"></a>
